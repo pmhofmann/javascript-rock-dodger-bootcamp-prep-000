@@ -141,6 +141,8 @@ function endGame() {gameInterval = clearInterval(gameInterval);
 }
 
 function moveDodger(e) {
+ 
+ 
   // implement me!
   /**
    * This function should call `moveDodgerLeft()`
